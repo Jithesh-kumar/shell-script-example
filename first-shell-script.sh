@@ -6,9 +6,4 @@ echo "Skills: Linux | AWS | Docker | CI/CD | Automation"
 echo "📈 Skills upgrading in progress… Mobile ➜ Cloud DevOps"
 
 
-echo -e "\e[1;32m🚀 Jithesh — journeying from Mobile App Dev to Cloud & DevOps Engineer ☁️\e[0m"
-
-echo "Skills: Linux | AWS | Docker | CI/C"
-
-echo "Skills: Linux | AWS | Docker | CI/CD | Automation"
 
